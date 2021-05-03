@@ -18,7 +18,7 @@ require('../../../includes/_header.php');
     <div>
       <h2>Introduction</h2>
 
-      <p><small style="font-size:0.8em;">Adapted from <a href="http://www.hueniverse.com/hueniverse/2007/09/explaining-oaut.html">Explaining OAuth</a>, published on September 05, 2007 by Eran Hammer-Lahav</small></p>
+      <p><small style="font-size:0.8em;">Adapted from <a href="https://hueniversedotcom.wordpress.com/2009/04/23/explaining-the-oauth-session-fixation-attack/">Explaining OAuth</a>, published on September 05, 2007 by Eran Hammer-Lahav</small></p>
 
       <hr />
 
